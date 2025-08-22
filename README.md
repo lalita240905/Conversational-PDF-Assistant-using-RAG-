@@ -5,7 +5,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)  
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-green)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
 
 ---
 
